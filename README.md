@@ -22,6 +22,20 @@ A 23-slide teardown covering the user journey, three personas, the competitive l
 
 ---
 
+## 📊 Commercial analytics case study
+
+### [Pharma sales & rebate analytics — ProcDNA case](procdna-rebate-case-study.md)
+
+Territory sales, system-level rebates and profit for a pharma brand, built in Excel from about 10,900 invoice lines. I fixed six data-quality issues before the numbers could be trusted.
+
+- **Sales:** national weighted sales up **47%** in two quarters, mostly from one GPO group
+- **Rebates:** **$7.25M** in Q1'25 across six GPO contracts plus the ICOP group contract, with ION alone taking 60%
+- **Insight:** each non-340B unit clears $1,585, but rebates eat about **half of the $14.6M profit**. Rebate terms, not cost, are what move margin.
+
+📄 [Read the write-up](procdna-rebate-case-study.md) · [Workbook (Excel)](ProcDNA_Case_Study_Rebate_Aritra_Pal.xlsx)
+
+---
+
 ## 📈 Strategy & GTM case studies
 
 ### [AI EdTech in India — PMF validation & go-to-market](navneet-ai-edtech-gtm.md) *(in progress)*
